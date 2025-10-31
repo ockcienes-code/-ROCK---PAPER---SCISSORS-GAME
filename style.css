@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  font-family: "Momo Trust Display";
+}
+
+h1{
+  margin-bottom: 30px;
+  color: purple;
+}
+
+.container {
+  background-color: pink;
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px 0.5px rgb(212, 0, 255);
+  padding: 60px;
+  text-align: center;
+}
+
+.sayac {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+  font-size: 30px;
+}
+
+.arena {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.robot img, .you img {
+  width: 120px;
+  display: none;
+}
+
+.robot img.active, .you img.active {
+  display: block;
+}
+
+.select, .submit {
+  padding: 15px;
+  border-radius: 15px;
+  border: none;
+  font-family: "Momo Trust Display";
+  cursor: pointer;
+}
+
+.select {
+  font-size: 16px;
+}
+
+.submit {
+  width: 200px;
+  margin-top: 30px;
+  font-size: 18px;
+  background-color: purple;
+  color: white;
+}
+
+.sonuc {
+  font-size: 24px;
+  margin-top: 20px;
+}
