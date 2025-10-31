@@ -141,3 +141,14 @@ Menüden “Stone”, “Paper” veya “Scissors” seç.
 Robot rastgele bir seçim yapacak.
 
 Kazanan ekranda gösterilecek, skor güncellenecek.
+
+👨‍💻 Yazar
+
+────────────────
+
+Enes Ocakçı
+
+📍 Türkiye
+
+💬 "Etkileşimli ön uç projeleri oluşturmayı ve JavaScript becerilerimi geliştirmeyi seviyorum."
+
