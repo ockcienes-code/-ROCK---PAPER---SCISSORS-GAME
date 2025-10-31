@@ -95,6 +95,8 @@ Enes Ocakçı
 💬 “I love building interactive front-end projects and improving my JavaScript skills.”
 
 
+Try it out :  https://ockcienes-code.github.io/rock-paper-scissors-game/
+
 [TR]
 
 🪨✂️📜 TAŞ - KAĞIT - MAKAS OYUNU
@@ -152,3 +154,4 @@ Enes Ocakçı
 
 💬 "Etkileşimli ön uç projeleri oluşturmayı ve JavaScript becerilerimi geliştirmeyi seviyorum."
 
+Deneme Yapın :  https://ockcienes-code.github.io/rock-paper-scissors-game/
